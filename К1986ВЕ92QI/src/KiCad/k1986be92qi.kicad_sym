@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LDM-BB-K1986BE92QI:LQFP-64_10x10mm_P0.5mm"
+		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
 			(at 0 -63.5 0)
 			(effects
 				(font
