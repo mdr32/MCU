@@ -1,0 +1,219 @@
+[
+  {
+    "id": 96,
+    "pin_number": "26",
+    "port": "E",
+    "pin_name": "PE0",
+    "function_name": "ADDR16",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 97,
+    "pin_number": "26",
+    "port": "E",
+    "pin_name": "PE0",
+    "function_name": "TMR2_CH1",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 98,
+    "pin_number": "26",
+    "port": "E",
+    "pin_name": "PE0",
+    "function_name": "CAN1_RX",
+    "direction": "In",
+    "function_type": "П"
+  },
+  {
+    "id": 99,
+    "pin_number": "26",
+    "port": "E",
+    "pin_name": "PE0",
+    "function_name": "DAC2_OUT",
+    "direction": "Out",
+    "function_type": "Ан"
+  },
+  {
+    "id": 100,
+    "pin_number": "25",
+    "port": "E",
+    "pin_name": "PE1",
+    "function_name": "ADDR17",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 101,
+    "pin_number": "25",
+    "port": "E",
+    "pin_name": "PE1",
+    "function_name": "TMR2_CH1N",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 102,
+    "pin_number": "25",
+    "port": "E",
+    "pin_name": "PE1",
+    "function_name": "CAN1_TX",
+    "direction": "Out",
+    "function_type": "П"
+  },
+  {
+    "id": 103,
+    "pin_number": "25",
+    "port": "E",
+    "pin_name": "PE1",
+    "function_name": "DAC2_REF",
+    "direction": "In",
+    "function_type": "Ан"
+  },
+  {
+    "id": 104,
+    "pin_number": "22",
+    "port": "E",
+    "pin_name": "PE2",
+    "function_name": "ADDR18",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 105,
+    "pin_number": "22",
+    "port": "E",
+    "pin_name": "PE2",
+    "function_name": "TMR2_CH3",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 106,
+    "pin_number": "22",
+    "port": "E",
+    "pin_name": "PE2",
+    "function_name": "TMR3_CH1",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 107,
+    "pin_number": "22",
+    "port": "E",
+    "pin_name": "PE2",
+    "function_name": "COMP_IN1",
+    "direction": "In",
+    "function_type": "Ан"
+  },
+  {
+    "id": 108,
+    "pin_number": "21",
+    "port": "E",
+    "pin_name": "PE3",
+    "function_name": "ADDR19",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 109,
+    "pin_number": "21",
+    "port": "E",
+    "pin_name": "PE3",
+    "function_name": "TMR2_CH3N",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 110,
+    "pin_number": "21",
+    "port": "E",
+    "pin_name": "PE3",
+    "function_name": "TMR3_CH1N",
+    "direction": "Out",
+    "function_type": "П"
+  },
+  {
+    "id": 111,
+    "pin_number": "21",
+    "port": "E",
+    "pin_name": "PE3",
+    "function_name": "COMP_IN2",
+    "direction": "In",
+    "function_type": "Ан"
+  },
+  {
+    "id": 112,
+    "pin_number": "16",
+    "port": "E",
+    "pin_name": "PE6",
+    "function_name": "ADDR22",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 113,
+    "pin_number": "16",
+    "port": "E",
+    "pin_name": "PE6",
+    "function_name": "CAN2_RX",
+    "direction": "In",
+    "function_type": "А"
+  },
+  {
+    "id": 114,
+    "pin_number": "16",
+    "port": "E",
+    "pin_name": "PE6",
+    "function_name": "TMR3_CH3",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 115,
+    "pin_number": "16",
+    "port": "E",
+    "pin_name": "PE6",
+    "function_name": "OSC_IN32",
+    "direction": "In",
+    "function_type": "Ан"
+  },
+  {
+    "id": 116,
+    "pin_number": "15",
+    "port": "E",
+    "pin_name": "PE7",
+    "function_name": "ADDR23",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 117,
+    "pin_number": "15",
+    "port": "E",
+    "pin_name": "PE7",
+    "function_name": "CAN2_TX",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 118,
+    "pin_number": "15",
+    "port": "E",
+    "pin_name": "PE7",
+    "function_name": "TMR3_CH3N",
+    "direction": "Out",
+    "function_type": "П"
+  },
+  {
+    "id": 119,
+    "pin_number": "15",
+    "port": "E",
+    "pin_name": "PE7",
+    "function_name": "OSC_OUT32",
+    "direction": "Out",
+    "function_type": "Ан"
+  }
+]
+

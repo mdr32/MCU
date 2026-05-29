@@ -1,0 +1,75 @@
+[
+  {
+    "id": 57,
+    "pin_number": "42",
+    "port": "C",
+    "pin_name": "PC0",
+    "function_name": "SCL1",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 58,
+    "pin_number": "42",
+    "port": "C",
+    "pin_name": "PC0",
+    "function_name": "SSP2_FSS",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 59,
+    "pin_number": "41",
+    "port": "C",
+    "pin_name": "PC1",
+    "function_name": "OE",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 60,
+    "pin_number": "41",
+    "port": "C",
+    "pin_name": "PC1",
+    "function_name": "SDA1",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 61,
+    "pin_number": "41",
+    "port": "C",
+    "pin_name": "PC1",
+    "function_name": "SSP2_CLK",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 62,
+    "pin_number": "40",
+    "port": "C",
+    "pin_name": "PC2",
+    "function_name": "WE",
+    "direction": "Out",
+    "function_type": "О"
+  },
+  {
+    "id": 63,
+    "pin_number": "40",
+    "port": "C",
+    "pin_name": "PC2",
+    "function_name": "TMR3_CH1",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 64,
+    "pin_number": "40",
+    "port": "C",
+    "pin_name": "PC2",
+    "function_name": "SSP2_RXD",
+    "direction": "In",
+    "function_type": "П"
+  }
+]
+

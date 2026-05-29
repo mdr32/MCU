@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "pin_number": "63",
+    "port": "A",
+    "pin_name": "PA0",
+    "function_name": "DATA0",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 2,
+    "pin_number": "63",
+    "port": "A",
+    "pin_name": "PA0",
+    "function_name": "EXT_INT1",
+    "direction": "In",
+    "function_type": "А"
+  },
+  {
+    "id": 3,
+    "pin_number": "62",
+    "port": "A",
+    "pin_name": "PA1",
+    "function_name": "DATA1",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 4,
+    "pin_number": "62",
+    "port": "A",
+    "pin_name": "PA1",
+    "function_name": "TMR1_CH1",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 5,
+    "pin_number": "62",
+    "port": "A",
+    "pin_name": "PA1",
+    "function_name": "TMR2_CH1",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 6,
+    "pin_number": "61",
+    "port": "A",
+    "pin_name": "PA2",
+    "function_name": "DATA2",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 7,
+    "pin_number": "61",
+    "port": "A",
+    "pin_name": "PA2",
+    "function_name": "TMR1_CH1N",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 8,
+    "pin_number": "61",
+    "port": "A",
+    "pin_name": "PA2",
+    "function_name": "TMR2_CH1N",
+    "direction": "Out",
+    "function_type": "П"
+  },
+  {
+    "id": 9,
+    "pin_number": "60",
+    "port": "A",
+    "pin_name": "PA3",
+    "function_name": "DATA3",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 10,
+    "pin_number": "60",
+    "port": "A",
+    "pin_name": "PA3",
+    "function_name": "TMR1_CH2",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 11,
+    "pin_number": "60",
+    "port": "A",
+    "pin_name": "PA3",
+    "function_name": "TMR2_CH2",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 12,
+    "pin_number": "59",
+    "port": "A",
+    "pin_name": "PA4",
+    "function_name": "DATA4",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 13,
+    "pin_number": "59",
+    "port": "A",
+    "pin_name": "PA4",
+    "function_name": "TMR1_CH2N",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 14,
+    "pin_number": "59",
+    "port": "A",
+    "pin_name": "PA4",
+    "function_name": "TMR2_CH2N",
+    "direction": "Out",
+    "function_type": "П"
+  },
+  {
+    "id": 15,
+    "pin_number": "58",
+    "port": "A",
+    "pin_name": "PA5",
+    "function_name": "DATA5",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 16,
+    "pin_number": "58",
+    "port": "A",
+    "pin_name": "PA5",
+    "function_name": "TMR1_CH3",
+    "direction": "I/O",
+    "function_type": "А"
+  },
+  {
+    "id": 17,
+    "pin_number": "58",
+    "port": "A",
+    "pin_name": "PA5",
+    "function_name": "TMR2_CH3",
+    "direction": "I/O",
+    "function_type": "П"
+  },
+  {
+    "id": 18,
+    "pin_number": "57",
+    "port": "A",
+    "pin_name": "PA6",
+    "function_name": "DATA6",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 19,
+    "pin_number": "57",
+    "port": "A",
+    "pin_name": "PA6",
+    "function_name": "CAN1_TX",
+    "direction": "Out",
+    "function_type": "А"
+  },
+  {
+    "id": 20,
+    "pin_number": "57",
+    "port": "A",
+    "pin_name": "PA6",
+    "function_name": "UART1_RXD",
+    "direction": "In",
+    "function_type": "П"
+  },
+  {
+    "id": 21,
+    "pin_number": "56",
+    "port": "A",
+    "pin_name": "PA7",
+    "function_name": "DATA7",
+    "direction": "I/O",
+    "function_type": "О"
+  },
+  {
+    "id": 22,
+    "pin_number": "56",
+    "port": "A",
+    "pin_name": "PA7",
+    "function_name": "CAN1_RX",
+    "direction": "In",
+    "function_type": "А"
+  },
+  {
+    "id": 23,
+    "pin_number": "56",
+    "port": "A",
+    "pin_name": "PA7",
+    "function_name": "UART1_TXD",
+    "direction": "Out",
+    "function_type": "П"
+  }
+]
+
